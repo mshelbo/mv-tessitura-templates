@@ -1,0 +1,1004 @@
+<?xml version="1.0" standalone="yes"?>
+<PrintTicketsResults>
+  <xs:schema id="PrintTicketsResults" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="PrintTicketsResults" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="sli_no" type="xs:int" minOccurs="0" />
+                <xs:element name="val" type="xs:string" minOccurs="0" />
+                <xs:element name="ele_sl_no" type="xs:int" minOccurs="0" />
+                <xs:element name="ele_type" type="xs:string" minOccurs="0" />
+                <xs:element name="ele_x1" type="xs:int" minOccurs="0" />
+                <xs:element name="ele_y1" type="xs:int" minOccurs="0" />
+                <xs:element name="mask" type="xs:string" minOccurs="0" />
+                <xs:element name="font_no" type="xs:int" minOccurs="0" />
+                <xs:element name="font_rotation" type="xs:string" minOccurs="0" />
+                <xs:element name="font_x" type="xs:int" minOccurs="0" />
+                <xs:element name="font_y" type="xs:int" minOccurs="0" />
+                <xs:element name="box_x" type="xs:int" minOccurs="0" />
+                <xs:element name="box_y" type="xs:int" minOccurs="0" />
+                <xs:element name="line_width" type="xs:int" minOccurs="0" />
+                <xs:element name="neg_print_ind" type="xs:string" minOccurs="0" />
+                <xs:element name="data_len" type="xs:int" minOccurs="0" />
+                <xs:element name="data_type" type="xs:string" minOccurs="0" />
+                <xs:element name="rect_height" type="xs:int" minOccurs="0" />
+                <xs:element name="rect_width" type="xs:int" minOccurs="0" />
+                <xs:element name="line_height" type="xs:int" minOccurs="0" />
+                <xs:element name="line_thick" type="xs:int" minOccurs="0" />
+                <xs:element name="text_width" type="xs:int" minOccurs="0" />
+                <xs:element name="text_height" type="xs:int" minOccurs="0" />
+                <xs:element name="reprint_ind" type="xs:string" minOccurs="0" />
+                <xs:element name="ele_height" type="xs:int" minOccurs="0" />
+                <xs:element name="ele_width" type="xs:int" minOccurs="0" />
+                <xs:element name="justify_text" type="xs:string" minOccurs="0" />
+                <xs:element name="barcode_ind" type="xs:string" minOccurs="0" />
+                <xs:element name="barcode_type_no" type="xs:int" minOccurs="0" />
+                <xs:element name="barcode_interp_ind" type="xs:string" minOccurs="0" />
+                <xs:element name="barcode_expand" type="xs:int" minOccurs="0" />
+                <xs:element name="barcode_height" type="xs:int" minOccurs="0" />
+                <xs:element name="design_no" type="xs:int" minOccurs="0" />
+                <xs:element name="description" type="xs:string" minOccurs="0" />
+                <xs:element name="element_type" type="xs:string" minOccurs="0" />
+                <xs:element name="order_no" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>99000000000001102904</val>
+    <ele_sl_no>14</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>286</ele_x1>
+    <ele_y1>114</ele_y1>
+    <mask />
+    <font_no>3</font_no>
+    <font_rotation>RU</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>20</data_len>
+    <data_type>C</data_type>
+    <text_width>286</text_width>
+    <text_height>72</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>Y</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_expand>1</barcode_expand>
+    <barcode_height>9</barcode_height>
+    <design_no>2011</design_no>
+    <description>N-Scan Barcode</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>99000000000001102904</val>
+    <ele_sl_no>15</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>295</ele_x1>
+    <ele_y1>324</ele_y1>
+    <mask />
+    <font_no>3</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>20</data_len>
+    <data_type>C</data_type>
+    <text_width>572</text_width>
+    <text_height>32</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>Y</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>N-Scan Barcode</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val> 8:00PM</val>
+    <ele_sl_no>46</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>506</ele_x1>
+    <ele_y1>212</ele_y1>
+    <mask>hh:mm</mask>
+    <font_no>3</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>8</data_len>
+    <data_type>T</data_type>
+    <text_width>160</text_width>
+    <text_height>33</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Perf. Begin Time</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>FO</val>
+    <ele_sl_no>48</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>298</ele_x1>
+    <ele_y1>274</ele_y1>
+    <mask>Case(val WHEN 'MF'THEN 'Door 1' WHEN 'BA' THEN 'Door 2' ELSE “Any Door”)</mask>
+    <font_no>3</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>10</data_len>
+    <data_type>C</data_type>
+    <text_width>200</text_width>
+    <text_height>33</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Section Print_Desc</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>FO</val>
+    <ele_sl_no>49</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>507</ele_x1>
+    <ele_y1>274</ele_y1>
+    <mask>If(val = 'MF', 'Main Floor', "Anywhere you want")</mask>
+    <font_no>3</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>10</data_len>
+    <data_type>C</data_type>
+    <text_width>200</text_width>
+    <text_height>33</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Section Print_Desc</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>FO</val>
+    <ele_sl_no>50</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>736</ele_x1>
+    <ele_y1>282</ele_y1>
+    <mask>Case(door When 'MF' Then 'Door 1' Else 'any')</mask>
+    <font_no>3</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>10</data_len>
+    <data_type>C</data_type>
+    <text_width>200</text_width>
+    <text_height>33</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Section Print_Desc</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>FORCH</val>
+    <ele_sl_no>2584</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>50</ele_x1>
+    <ele_y1>55</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>8</data_len>
+    <data_type>C</data_type>
+    <text_width>160</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>2</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Section Abbrev</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>F         </val>
+    <ele_sl_no>2585</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>50</ele_x1>
+    <ele_y1>125</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>3</data_len>
+    <data_type>C</data_type>
+    <text_width>60</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>2</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Seat Row</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>19        </val>
+    <ele_sl_no>2586</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>135</ele_x1>
+    <ele_y1>125</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>3</data_len>
+    <data_type>C</data_type>
+    <text_width>60</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>2</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Seat Number</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>                         65.00</val>
+    <ele_sl_no>2587</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>50</ele_x1>
+    <ele_y1>200</ele_y1>
+    <mask>$#,##0</mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>7</data_len>
+    <data_type>M</data_type>
+    <text_width>140</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>2</ele_width>
+    <justify_text>R</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Tot Price by PMap Cat-1</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>041511PURC</val>
+    <ele_sl_no>2588</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>50</ele_x1>
+    <ele_y1>1</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>6</data_len>
+    <data_type>C</data_type>
+    <text_width>60</text_width>
+    <text_height>18</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Perf. Code</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>1004                          </val>
+    <ele_sl_no>2590</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>140</ele_x1>
+    <ele_y1>1</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>6</data_len>
+    <data_type>C</data_type>
+    <text_width>60</text_width>
+    <text_height>18</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Ticket No</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>2011-04-15</val>
+    <ele_sl_no>2593</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>760</ele_x1>
+    <ele_y1>57</ele_y1>
+    <mask>mmm</mask>
+    <font_no>3</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>3</data_len>
+    <data_type>D</data_type>
+    <text_width>60</text_width>
+    <text_height>33</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Perf. Date</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>2011-04-15</val>
+    <ele_sl_no>2594</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>725</ele_x1>
+    <ele_y1>93</ele_y1>
+    <mask>dd</mask>
+    <font_no>6</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>2</data_len>
+    <data_type>D</data_type>
+    <text_width>136</text_width>
+    <text_height>112</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>2</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Perf. Date</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>2011-04-15</val>
+    <ele_sl_no>2595</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>750</ele_x1>
+    <ele_y1>184</ele_y1>
+    <mask>yyyy</mask>
+    <font_no>3</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>4</data_len>
+    <data_type>D</data_type>
+    <text_width>80</text_width>
+    <text_height>33</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Perf. Date</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val />
+    <ele_sl_no>2639</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>119</ele_x1>
+    <ele_y1>1</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>1</data_len>
+    <data_type>C</data_type>
+    <text_width>10</text_width>
+    <text_height>18</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Check Code</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>FORCH</val>
+    <ele_sl_no>2642</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>940</ele_x1>
+    <ele_y1>55</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>8</data_len>
+    <data_type>C</data_type>
+    <text_width>160</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>2</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Section Abbrev</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>F         </val>
+    <ele_sl_no>2643</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>940</ele_x1>
+    <ele_y1>125</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>3</data_len>
+    <data_type>C</data_type>
+    <text_width>60</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>2</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Seat Row</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>19        </val>
+    <ele_sl_no>2646</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>1030</ele_x1>
+    <ele_y1>126</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>3</data_len>
+    <data_type>C</data_type>
+    <text_width>60</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>2</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Seat Number</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>                         65.00</val>
+    <ele_sl_no>2647</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>940</ele_x1>
+    <ele_y1>200</ele_y1>
+    <mask>£#,###0.00</mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>7</data_len>
+    <data_type>M</data_type>
+    <text_width>140</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>2</ele_width>
+    <justify_text>R</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Tot Price by PMap Cat-1</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>041511PURC</val>
+    <ele_sl_no>2648</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>940</ele_x1>
+    <ele_y1>1</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>6</data_len>
+    <data_type>C</data_type>
+    <text_width>60</text_width>
+    <text_height>18</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Perf. Code</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val />
+    <ele_sl_no>2649</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>1011</ele_x1>
+    <ele_y1>1</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>1</data_len>
+    <data_type>C</data_type>
+    <text_width>10</text_width>
+    <text_height>18</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Check Code</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>1004                          </val>
+    <ele_sl_no>2650</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>1032</ele_x1>
+    <ele_y1>1</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>6</data_len>
+    <data_type>C</data_type>
+    <text_width>60</text_width>
+    <text_height>18</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Ticket No</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val> 8:00PM</val>
+    <ele_sl_no>2655</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>245</ele_x1>
+    <ele_y1>210</ele_y1>
+    <mask>h:mm AM/PM</mask>
+    <font_no>3</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>11</data_len>
+    <data_type>T</data_type>
+    <text_width>220</text_width>
+    <text_height>33</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Perf. Begin Time</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val />
+    <ele_sl_no>2718</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>265</ele_x1>
+    <ele_y1>85</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>20</data_len>
+    <data_type>C</data_type>
+    <text_width>400</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>2</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Prod.Info-1</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val />
+    <ele_sl_no>2719</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>265</ele_x1>
+    <ele_y1>120</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>20</data_len>
+    <data_type>C</data_type>
+    <text_width>400</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>2</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Prod.Info-2</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val />
+    <ele_sl_no>2722</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>265</ele_x1>
+    <ele_y1>40</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>3</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>20</data_len>
+    <data_type>C</data_type>
+    <text_width>400</text_width>
+    <text_height>33</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Perf.Info-1</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>Friday Evening</val>
+    <ele_sl_no>2723</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>265</ele_x1>
+    <ele_y1>167</ele_y1>
+    <mask />
+    <font_no>3</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>25</data_len>
+    <data_type>C</data_type>
+    <text_width>500</text_width>
+    <text_height>33</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>DOW and Time Slot</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>Duplicate Ticket</val>
+    <ele_sl_no>3063</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>50</ele_x1>
+    <ele_y1>320</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>2</data_len>
+    <data_type>C</data_type>
+    <text_width>20</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Reprint Flag</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val xml:space="preserve"> </val>
+    <ele_sl_no>3065</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>50</ele_x1>
+    <ele_y1>285</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>15</data_len>
+    <data_type>C</data_type>
+    <text_width>150</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Ticket Text</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val xml:space="preserve"> </val>
+    <ele_sl_no>3068</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>945</ele_x1>
+    <ele_y1>285</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>15</data_len>
+    <data_type>C</data_type>
+    <text_width>150</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Ticket Text</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val>Duplicate Ticket</val>
+    <ele_sl_no>3070</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>945</ele_x1>
+    <ele_y1>320</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>2</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>2</data_len>
+    <data_type>C</data_type>
+    <text_width>20</text_width>
+    <text_height>36</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>2</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Reprint Flag</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+  <Table>
+    <sli_no>11036</sli_no>
+    <val xml:space="preserve"> </val>
+    <ele_sl_no>3073</ele_sl_no>
+    <ele_type>D</ele_type>
+    <ele_x1>265</ele_x1>
+    <ele_y1>1</ele_y1>
+    <mask xml:space="preserve"> </mask>
+    <font_no>3</font_no>
+    <font_rotation>NR</font_rotation>
+    <neg_print_ind>N</neg_print_ind>
+    <data_len>20</data_len>
+    <data_type>C</data_type>
+    <text_width>400</text_width>
+    <text_height>33</text_height>
+    <reprint_ind>X</reprint_ind>
+    <ele_height>1</ele_height>
+    <ele_width>1</ele_width>
+    <justify_text>L</justify_text>
+    <barcode_ind>N</barcode_ind>
+    <barcode_type_no>1</barcode_type_no>
+    <barcode_interp_ind>N</barcode_interp_ind>
+    <barcode_expand>2</barcode_expand>
+    <barcode_height>4</barcode_height>
+    <design_no>2011</design_no>
+    <description>Comp Reason</description>
+    <element_type>T</element_type>
+    <order_no>3529</order_no>
+  </Table>
+</PrintTicketsResults>

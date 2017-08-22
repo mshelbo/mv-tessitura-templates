@@ -1,0 +1,35 @@
+<DataSet>
+  <xs:schema id="LoginInfoResults" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="LoginInfoResults" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="LoginInformation">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="customer_no" type="xs:int" minOccurs="0"/>
+                <xs:element name="MOS" type="xs:int" minOccurs="0"/>
+                <xs:element name="promotion_code" type="xs:int" minOccurs="0"/>
+                <xs:element name="batch_no" type="xs:int" minOccurs="0"/>
+                <xs:element name="bu" type="xs:int" minOccurs="0"/>
+                <xs:element name="status" type="xs:string" minOccurs="0"/>
+                <xs:element name="OriginalMOS" type="xs:int" minOccurs="0"/>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+    <LoginInfoResults xmlns="">
+      <LoginInformation diffgr:id="LoginInformation1" msdata:rowOrder="0">
+        <customer_no>1004</customer_no>
+        <MOS>3</MOS>
+        <promotion_code>283</promotion_code>
+        <bu>1</bu>
+        <status>P</status>
+        <OriginalMOS>3</OriginalMOS>
+      </LoginInformation>
+    </LoginInfoResults>
+  </diffgr:diffgram>
+</DataSet>
