@@ -186,6 +186,62 @@
 															<td class="content-spacing" style="font-size:0pt; line-height:0pt; text-align:left" width="52"></td>
 														</tr>
 													</table>
+													
+													<!-- Brown Section -->
+													<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ebe8e0">
+														<tr>
+															<td class="content-spacing" style="font-size:0pt; line-height:0pt; text-align:left" width="52"></td>
+															<td>
+																<table width="100%" border="0" cellspacing="0" cellpadding="0" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td height="18" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td>																		
+																<!-- Donation Info -->													
+																<p style="font-family: 'Open Sans', Tahoma, Arial, sans-serif; text-align:center; font-size:14px; line-height:25px; color:#64605a;">
+																AMOUNT:<br>
+																<span style="color:#8d2838; font-size:24px; font-weight: bold">
+																<% string date = ""; %>															
+																<% decimal amount = 69; %>
+																<% foreach (ConstituentContribution item in ConstituentInfo.Contribution) { %>
+																<% date = item.cont_date.ToString("MM/dd/yyyy"); %>
+																	<% if (date == OrderData.OrderDate.ToString("MM/dd/yyyy")) { %>
+																	<% amount = item.cont_amt; %>
+																	<%= amount.ToString("C2") %>
+																	<% Response.Write("<br>"); %>
+																	<% } %>
+																<% } %>		
+																</span><br>
+																DATE:<br>
+																<span style="color:#8d2838; font-size:24px; font-weight: bold"><%= OrderData.OrderDate.ToString("MM/dd/yyyy") %>
+																</span>															
+																<!--
+																<br><br>
+																
+																DESIGNATION:<br>
+																<span style="color:#8d2838; font-size:24px; font-weight: bold">
+																<% string designation = ""; %>
+																<% foreach (ConstituentContribution item in ConstituentInfo.Contribution) { %>
+																<% date = item.cont_date.ToString("MM/dd/yyyy"); %>
+																	<% if (date == OrderData.OrderDate.ToString("MM/dd/yyyy")) { %>
+																	<% designation = item.campaign; %>
+																	<%= designation %>
+																	<% Response.Write("<br>"); %>
+																	<% } %>
+																<% } %>	
+																</span>						
+																-->
+																
+																</p>																			
+																		</td>
+																	</tr>
+																</table>
+																<table width="100%" border="0" cellspacing="0" cellpadding="0" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td height="25" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+															</td>
+															<td class="content-spacing" style="font-size:0pt; line-height:0pt; text-align:left" width="52"></td>
+														</tr>
+													</table>												
 													<!-- END Brown Section -->
 												</td>
 											</tr>

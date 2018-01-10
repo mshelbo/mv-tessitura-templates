@@ -133,10 +133,9 @@
 																<table width="100%" border="0" cellspacing="0" cellpadding="0" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td height="28" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
 
 																<div class="text"><span style="color:#64605a; font-family:'Libre Baskerville', Georgia, Times, 'Times New Roman', serif; font-size:16px; line-height:21px; text-align:left">
-																Dear <%= OrderData.Customer.FullName %>,<br><br>
-																Thank you for your generous contribution to the 70th Annual Birthnight Supper and Ball and your support for the Neighborhood Friends of Mount Vernon's 2016-2017 sponsored project, a new state-of-the-art fire suppression system for the historic mansion.<br><br>
-																We look forward to seeing you on Sunday, February 19, 2017 at 6:15 p.m. If you have any questions please feel free to contact Tammy Eddy at 703-799-5075 or <a href="mailto:teddy@mountvernon.org">teddy@mountvernon.org</a>.<br><br>
-																Thank you again for your support for Mount Vernon's mission of historic preservation, education, and the legacy of George Washington. 
+																Thank you for your generous contribution to the 71st Annual Birthnight Supper and Ball and your support for the Neighborhood Friends of Mount Vernon's 2017-2018 sponsored project, the General’s To-Do List.<br><br>
+																We look forward to seeing you on Sunday, February 18, 2018 at 6:15 p.m. If you have any questions please feel free to contact Kara Hershorin at 703-799-8658 or or <a href="mailto:khershorin@mountvernon.org">khershorin@mountvernon.org</a>.<br><br>
+																Thank you again for your support for Mount Vernon's mission of historic preservation, education, and the legacy of George Washington.
 																</span></div>
 																<table width="100%" border="0" cellspacing="0" cellpadding="0" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td height="18" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
 

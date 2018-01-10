@@ -133,8 +133,7 @@
 																<table width="100%" border="0" cellspacing="0" cellpadding="0" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td height="28" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
 
 																<div class="text"><span style="color:#64605a; font-family:'Libre Baskerville', Georgia, Times, 'Times New Roman', serif; font-size:16px; line-height:21px; text-align:left">
-																Dear <%= OrderData.Customer.FullName %>,<br><br>
-																Thank you for your generous donation to the 70th Annual Birthnight Supper and Ball. Your donation to this important fundraiser will help support the Neighborhood Friends of Mount Vernon's 2016-2017 sponsored project, a new state-of-the-art fire suppression system for the historic mansion.  Again, we appreciate your enthusiasm for Mount Vernon's mission of historic preservation, education, and the legacy of George Washington.
+																Thank you for your generous donation to the 71st Annual Birthnight Supper and Ball. Your donation to this important fundraiser will help support the Neighborhood Friends of Mount Vernon's 2017-2018 sponsored project, the General’s To-Do List. Again, we appreciate your enthusiasm for Mount Vernon's mission of historic preservation, education, and the legacy of George Washington.
 																</span></div>
 																<table width="100%" border="0" cellspacing="0" cellpadding="0" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td height="18" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
 

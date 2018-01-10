@@ -134,12 +134,7 @@
 
 																<div class="text"><span style="color:#64605a; font-family:'Libre Baskerville', Georgia, Times, 'Times New Roman', serif; font-size:16px; line-height:21px; text-align:left">
 																Dear <%= OrderData.Customer.FullName %>,<br><br>
-																Thank you for your donation to George Washington's Mount Vernon! Your support will enable us to continue our mission of preserving George Washington's estate and educating the world about his life and enduring legacy of character and leadership. Your official tax receipt will be mailed to you separately, but please retain this e-mail for your records.<br><br>
-																Once again, thank you for your generosity. It is most appreciated by all of us at Mount Vernon.<br><br>
-																	With best wishes,<br><br>
-																	<img src="http://s3.amazonaws.com/mtv-main-assets/files/resources/viebranz-sig.png"><br>
-																	Curt Viebranz<br>
-																	President & CEO
+																Thank you for your donation to George Washington's Mount Vernon! Your support will enable us to continue our mission of preserving George Washington's estate and educating the world about his life and enduring legacy of character and leadership.<br><br>Your official tax receipt will be mailed to you separately, but please retain this e-mail for your records.
 																</span></div>
 																<table width="100%" border="0" cellspacing="0" cellpadding="0" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td height="18" class="spacer" style="font-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
 
